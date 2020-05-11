@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="primaryRallyGreen">#1EB980</color>
+    <color name="RallyDarkGreen">#045D56</color>
+    <color name="RallyOrange">#FF6859</color>
+    <color name="RallyYellow">#FFCF44</color>
+    <color name="RallyPurpal">#B15DFF</color>
+    <color name="RallyBlue">#72DEFF</color>
+</resources>
